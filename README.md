@@ -1,1 +1,3 @@
-# Archiver
+# HuffmanArchiver
+
+Data compression and decompression
